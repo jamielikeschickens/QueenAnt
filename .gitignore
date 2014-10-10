@@ -1,0 +1,5 @@
+.build_Debug/
+.cproject
+.project
+.settings/
+bin/
